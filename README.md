@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Anurag Dutta.
 - 👀 I’m currently a Front-end Dev and a full stack developer in making.
 - 💞️ I’m looking forward to collaborate on any projects with coding interface.
-- 📫 You can reach me through my Email I'D imanurag18@gmail.com and twitter handle @iiAnuragii .
+- 📫 You can reach me through my Email I'D imanurag18@gmail.com and twitter handle @__iianuragii__ .
