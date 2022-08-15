@@ -1,6 +1,6 @@
-[![MasterHead](https://thumbs.dreamstime.com/b/frontend-development-web-banner-concept-website-interface-frontend-development-web-banner-concept-website-interface-design-159250288.jpg)
+![MasterHead](https://thumbs.dreamstime.com/b/frontend-development-web-banner-concept-website-interface-frontend-development-web-banner-concept-website-interface-design-159250288.jpg)
 <h1 align="center">Hi 👋, I'm Anurag Dutta</h1>
-<h3 align="center">👀 I’m currently a Front-end Dev and a full stack developer in making.</h3>\
+<h3 align="center">👀 I’m currently a Front-end Dev and a full stack developer in making.</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iianuragii&label=Profile%20views&color=0e75b6&style=flat" alt="iianuragii" /> </p>
