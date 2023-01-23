@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/_iianuragii_" target="blank"><img src="https://img.shields.io/twitter/follow/_iianuragii_?logo=twitter&style=for-the-badge" alt="_iianuragii_" /></a> </p>
 
-- 👯 I’m looking to collaborate on **any projects**
+- 🌱 I'm currently learning **express**.
 
-- 💬 Ask me about **Front-end**
+- 💬 Ask me about **Front-end**, **Database**, **GCP**.
 
-- 📫 How to reach me **imanurag18@gmail.com**
+- 📫 How to reach me **imanurag18@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
