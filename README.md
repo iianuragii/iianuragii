@@ -11,7 +11,7 @@
 
 - 🌱 I'm currently learning **Python**.
 
-- 💬 Ask me about **Front-end**, **Database**, **GCP**.
+- 💬 Ask me about **Web**, **Database**, **Competitive Coding**.
 
 - 📫 How to reach me **imanurag18@gmail.com**.
 
