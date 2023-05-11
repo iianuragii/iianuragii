@@ -1,6 +1,6 @@
 
 <h1 align="center">Heya 👋, I'm Anurag Dutta</h1>
-<h3 align="center">👀 Front-End Developer || 💻Coding Enthusiast || 🌱Open-Source intermediate </h3>
+<h3 align="center">👀 Web Developer || 💻Coding Enthusiast || 🌱Open-Source intermediate </h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iianuragii&label=Profile%20views&color=0e75b6&style=flat" alt="iianuragii" /> </p>
