@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/_iianuragii_" target="blank"><img src="https://img.shields.io/twitter/follow/_iianuragii_?logo=twitter&style=for-the-badge" alt="_iianuragii_" /></a> </p>
 
-- 🌱 Currently into **Blockchain**.
+- 🌱 Currently into **Machine Learning**.
 
-- 💬 Ask me about **Web**, **Database**, **Competitive Coding**.
+- 💬 Ask me about **Web**, **ML**, **Competitive Coding** and **Cloud**.
 
 - 📫 How to reach me **imanurag18@gmail.com**.
 
